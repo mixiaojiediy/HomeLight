@@ -1,0 +1,5 @@
+[0701/065537:WARNING:nss_ssl_util.cc(210)] Unknown SSL error -12190 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[0701/065537:ERROR:ssl_client_socket_nss.cc(1530)] handshake with server www.autocadws.com:443 failed; NSS error code -12190, net_error -107
+[0701/065537:WARNING:http_stream_factory_impl_job.cc(1007)] Falling back to SSLv3 because host is TLS intolerant: www.autocadws.com:443
+[0701/065537:WARNING:nss_ssl_util.cc(210)] Unknown SSL error -12190 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[0701/065537:ERROR:ssl_client_socket_nss.cc(1530)] handshake with server www.autocadws.com:443 failed; NSS error code -12190, net_error -107

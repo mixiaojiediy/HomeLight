@@ -1,0 +1,10 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=HomeLight.PrjPCB
+[Project2]
+ProjectPath=Switch.PrjPCB
+[Project3]
+ProjectPath=C:\Users\Public\Documents\Altium\AD14\Library\SEU\PCBInitlib_SEU_RobotLab.LibPkg
+[Project4]
+ProjectPath=HomeLight_230722.PrjPCB
